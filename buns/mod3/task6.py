@@ -1,0 +1,1 @@
+print(''.join(i[-1] for i in str(input()).split(' ')))

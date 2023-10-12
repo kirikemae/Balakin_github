@@ -1,0 +1,1 @@
+for i in reversed(str(input()).split('.')): print(i)
